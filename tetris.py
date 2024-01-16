@@ -1,5 +1,6 @@
 from settings import *
 import math
+from tetromino import Tetromino
 
 class Tetris:
   def __init__(self, app):
